@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"lua.debug.variables.showIntegerAsHex": true
+	}
+}
