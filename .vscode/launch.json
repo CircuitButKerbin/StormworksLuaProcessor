@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Stormux_8bfa0774"
+        },
+        {
+            "name": "Run Lua",
+            "type": "lua",
+            "request": "launch",
+            "program": "${file}"
+        }
+    ]
+}
